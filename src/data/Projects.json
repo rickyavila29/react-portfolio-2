@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Project name 1",
+    "description": "Map of Denver using API",
+    "sourceCode": "https://github.com/omaro454/Project-1",
+    "demoLink": "https://omaro454.github.io/Project-1/"
+  },
+  {
+    "name": "Project name 2",
+    "description": "Fantasy football application",
+    "sourceCode": "https://github.com/SammyDP/Project-2",
+    "demoLink": "https://onlyfantasies.herokuapp.com/"
+  }
+]
